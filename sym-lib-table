@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "lib_blheli")(type "KiCad")(uri "${KIPRJMOD}/library/lib_blheli.kicad_sym")(options "")(descr ""))
+)
