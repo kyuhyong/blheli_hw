@@ -1,4 +1,5 @@
 (sym_lib_table
   (version 7)
   (lib (name "lib_blheli")(type "KiCad")(uri "${KIPRJMOD}/library/lib_blheli.kicad_sym")(options "")(descr ""))
+  (lib (name "IRLML2244TRPBF")(type "KiCad")(uri "/home/kyu/workspace/pcb_design/temp/LIB_IRLML2244TRPBF/IRLML2244TRPBF/KiCad/IRLML2244TRPBF.kicad_sym")(options "")(descr ""))
 )

@@ -1697,6 +1697,308 @@
 				)
 			)
 		)
+		(symbol "lib_blheli:IRLML2244TRPBF"
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at 10.922 5.842 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "IRLML2244TRPBF"
+				(at 8.128 -1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "footprint_blheli:SOT95P237X112-3N"
+				(at 11.43 -98.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 11.43 -198.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "INFINEON - IRLML2244TRPBF - P CHANNEL POWER MOSFET, HEXFET, -20V, -4.3A, SOT-23"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "1.12"
+				(at 11.43 -398.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "942-IRLML2244TRPBF"
+				(at 11.43 -498.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IRLML2244TRPBF?qs=9%252BKlkBgLFf2tCL30qYbaQQ%3D%3D"
+				(at 11.43 -598.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Infineon"
+				(at 11.43 -698.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "IRLML2244TRPBF"
+				(at 11.43 -798.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "IRLML2244TRPBF_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 4.445) (xy 5.08 0.635)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.842 0.762) (xy 5.842 1.778)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.842 1.27) (xy 7.62 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.842 2.032) (xy 5.842 3.048)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.8429 4.4449) (xy 5.8429 3.4289)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 2.54) (xy 5.842 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 2.54) (xy 7.62 -0.635)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.6209 3.9369) (xy 5.8429 3.9369)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.6209 3.9369) (xy 7.62 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 2.54) (xy 6.604 3.048) (xy 6.604 2.032) (xy 7.62 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 6.35 2.54)
+					(radius 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 2.54)
+					(name "G"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 -2.54 90)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 7.62 270)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "lib_blheli:REG113NA-3.3_250"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2240,12 +2542,6 @@
 		)
 	)
 	(junction
-		(at 246.38 109.22)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0e7e7a6e-9305-45e4-9e3d-3b5dcd0bc8a1")
-	)
-	(junction
 		(at 241.3 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2276,28 +2572,22 @@
 		(uuid "2b2136f0-7cae-4685-9e5e-1cc0cb6aa1d1")
 	)
 	(junction
+		(at 246.38 113.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2d0eb2a1-bb12-4d9c-8344-1c6833a66638")
+	)
+	(junction
 		(at 236.22 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2ec856a0-2908-402c-8fb9-678b5b144aac")
 	)
 	(junction
-		(at 208.28 50.8)
+		(at 220.98 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "361341d2-1701-4239-ac3e-66c5dac1ed8b")
-	)
-	(junction
-		(at 224.79 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3671481e-b352-476a-be63-17f020433de1")
-	)
-	(junction
-		(at 208.28 109.22)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3faeb3e3-02b1-4eb8-8085-5a770225f1c6")
+		(uuid "4274213a-9c08-4bbf-bc94-256a0379f407")
 	)
 	(junction
 		(at 241.3 129.54)
@@ -2312,10 +2602,22 @@
 		(uuid "492072a7-2928-4b30-a079-bab007ceeb13")
 	)
 	(junction
-		(at 125.73 147.32)
+		(at 97.79 147.32)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4af381d1-7955-4b97-b36e-3e026ca269cc")
+	)
+	(junction
+		(at 196.85 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "503b7131-76e9-4e36-b2ef-1acdbd29d086")
+	)
+	(junction
+		(at 214.63 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5cd9cb1f-4a81-4953-be08-cb7f72f4898a")
 	)
 	(junction
 		(at 241.3 82.55)
@@ -2330,22 +2632,10 @@
 		(uuid "7a5eff29-6002-4882-a497-94bdfffd4182")
 	)
 	(junction
-		(at 208.28 82.55)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "83c116da-d84e-4097-9a20-d8cb8154069e")
-	)
-	(junction
 		(at 246.38 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8aed0072-aa15-46e6-b5b2-2e66375d6da3")
-	)
-	(junction
-		(at 196.85 127)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a7e6e95d-0953-4fb4-bdd7-ef1f3200b7a4")
 	)
 	(junction
 		(at 236.22 127)
@@ -2354,19 +2644,13 @@
 		(uuid "a97871c0-b7f6-44c7-a7e0-64a1102ec6eb")
 	)
 	(junction
-		(at 224.79 35.56)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c7ae68c3-63b7-4814-8e37-e1f2cf391781")
-	)
-	(junction
 		(at 196.85 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d414a672-1159-47f4-be6b-879435ff18fb")
 	)
 	(junction
-		(at 125.73 137.16)
+		(at 97.79 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dbcce88d-ca97-429b-b949-9672196089b6")
@@ -2384,10 +2668,28 @@
 		(uuid "e4b45fa9-642f-4fe7-a06c-c0bbcb7f561d")
 	)
 	(junction
+		(at 214.63 82.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f4ceca40-31aa-448c-a1c1-0ba8b9fee040")
+	)
+	(junction
+		(at 214.63 113.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f6153780-0d56-44c8-b83b-49a09679d010")
+	)
+	(junction
 		(at 130.81 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f91b91e5-fadf-47b9-9a98-684d7737bcd9")
+	)
+	(junction
+		(at 220.98 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fc89bcc7-5dbd-447e-9e99-12bc63e62887")
 	)
 	(no_connect
 		(at 93.98 55.88)
@@ -2443,7 +2745,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 102.87) (xy 200.66 102.87)
+			(xy 185.42 132.08) (xy 207.01 132.08)
 		)
 		(stroke
 			(width 0)
@@ -2463,7 +2765,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 144.78) (xy 125.73 147.32)
+			(xy 97.79 144.78) (xy 97.79 147.32)
 		)
 		(stroke
 			(width 0)
@@ -2473,7 +2775,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 43.18) (xy 200.66 43.18)
+			(xy 186.69 68.58) (xy 207.01 68.58)
 		)
 		(stroke
 			(width 0)
@@ -2493,6 +2795,26 @@
 	)
 	(wire
 		(pts
+			(xy 246.38 113.03) (xy 246.38 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2038adbf-0b53-4aad-853e-2719f6cf2f75")
+	)
+	(wire
+		(pts
+			(xy 214.63 113.03) (xy 214.63 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20ceabac-52ff-48df-a17a-f7de50e69fc7")
+	)
+	(wire
+		(pts
 			(xy 241.3 142.24) (xy 241.3 144.78)
 		)
 		(stroke
@@ -2503,17 +2825,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 107.95) (xy 208.28 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "25062b08-b16c-42d3-9db4-32cc63bce875")
-	)
-	(wire
-		(pts
-			(xy 63.5 144.78) (xy 68.58 144.78)
+			(xy 41.91 144.78) (xy 46.99 144.78)
 		)
 		(stroke
 			(width 0)
@@ -2543,6 +2855,16 @@
 	)
 	(wire
 		(pts
+			(xy 214.63 82.55) (xy 241.3 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c3d2f10-25ef-4a83-b076-df927a3be2a1")
+	)
+	(wire
+		(pts
 			(xy 127 105.41) (xy 127 106.68)
 		)
 		(stroke
@@ -2553,13 +2875,23 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 109.22) (xy 246.38 116.84)
+			(xy 246.38 85.09) (xy 246.38 113.03)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "30267c97-1933-4de1-bc0c-b2b6d2e98291")
+	)
+	(wire
+		(pts
+			(xy 214.63 73.66) (xy 220.98 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3654a08c-0d35-4f1f-8fb5-99e347337703")
 	)
 	(wire
 		(pts
@@ -2583,6 +2915,16 @@
 	)
 	(wire
 		(pts
+			(xy 214.63 50.8) (xy 236.22 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b518882-189d-46e6-9a38-debc0e1dfbfd")
+	)
+	(wire
+		(pts
 			(xy 236.22 36.83) (xy 241.3 36.83)
 		)
 		(stroke
@@ -2600,16 +2942,6 @@
 			(type default)
 		)
 		(uuid "44994105-9f2b-4214-8d7a-6a2bd1942a47")
-	)
-	(wire
-		(pts
-			(xy 208.28 96.52) (xy 208.28 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "460adacb-e0c3-4ea9-b0b9-7f30e13f6519")
 	)
 	(wire
 		(pts
@@ -2643,7 +2975,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 74.93) (xy 200.66 74.93)
+			(xy 185.42 97.79) (xy 207.01 97.79)
 		)
 		(stroke
 			(width 0)
@@ -2663,17 +2995,7 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 127) (xy 196.85 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "50c6f841-55ae-4b9f-9cf9-14e8ec8ff9f1")
-	)
-	(wire
-		(pts
-			(xy 179.07 118.11) (xy 200.66 118.11)
+			(xy 179.07 120.65) (xy 200.66 120.65)
 		)
 		(stroke
 			(width 0)
@@ -2703,23 +3025,23 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 48.26) (xy 208.28 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5535b74f-0d96-4d65-ba9d-069a3588efcf")
-	)
-	(wire
-		(pts
-			(xy 62.23 85.09) (xy 74.93 85.09)
+			(xy 132.08 144.78) (xy 144.78 144.78)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "55a01466-ecb8-49c6-a6dc-c05cb9ae96cb")
+	)
+	(wire
+		(pts
+			(xy 214.63 102.87) (xy 220.98 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "565466a2-5221-4591-8a38-ba5a352feb43")
 	)
 	(wire
 		(pts
@@ -2753,7 +3075,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 137.16) (xy 125.73 139.7)
+			(xy 97.79 137.16) (xy 97.79 139.7)
 		)
 		(stroke
 			(width 0)
@@ -2763,17 +3085,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 85.09) (xy 246.38 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5d0c0bcb-dada-47da-8d32-0ddd2622caa7")
-	)
-	(wire
-		(pts
-			(xy 208.28 82.55) (xy 241.3 82.55)
+			(xy 208.28 82.55) (xy 214.63 82.55)
 		)
 		(stroke
 			(width 0)
@@ -2783,7 +3095,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 134.62) (xy 115.57 142.24)
+			(xy 87.63 134.62) (xy 87.63 142.24)
 		)
 		(stroke
 			(width 0)
@@ -2813,7 +3125,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 137.16) (xy 119.38 137.16)
+			(xy 97.79 137.16) (xy 91.44 137.16)
 		)
 		(stroke
 			(width 0)
@@ -2853,17 +3165,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 35.56) (xy 208.28 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "70b2b17d-3cdd-4df3-a317-54baf2b5db2e")
-	)
-	(wire
-		(pts
-			(xy 62.23 82.55) (xy 74.93 82.55)
+			(xy 132.08 142.24) (xy 144.78 142.24)
 		)
 		(stroke
 			(width 0)
@@ -2893,7 +3195,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 87.63) (xy 200.66 87.63)
+			(xy 179.07 90.17) (xy 200.66 90.17)
 		)
 		(stroke
 			(width 0)
@@ -2903,7 +3205,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 144.78) (xy 68.58 147.32)
+			(xy 46.99 144.78) (xy 46.99 147.32)
 		)
 		(stroke
 			(width 0)
@@ -2913,7 +3215,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 58.42) (xy 200.66 58.42)
+			(xy 180.34 60.96) (xy 200.66 60.96)
 		)
 		(stroke
 			(width 0)
@@ -2943,17 +3245,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 80.01) (xy 208.28 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e96d418-c583-4621-9c12-381f1a60f559")
-	)
-	(wire
-		(pts
-			(xy 63.5 139.7) (xy 72.39 139.7)
+			(xy 41.91 139.7) (xy 50.8 139.7)
 		)
 		(stroke
 			(width 0)
@@ -2963,23 +3255,13 @@
 	)
 	(wire
 		(pts
-			(xy 127 137.16) (xy 125.73 137.16)
+			(xy 99.06 137.16) (xy 97.79 137.16)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "8086ed0f-bda1-48a6-bb6b-9f858d103384")
-	)
-	(wire
-		(pts
-			(xy 208.28 50.8) (xy 208.28 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8143f399-b8e7-4cbe-8dd4-3595abc7cd70")
 	)
 	(wire
 		(pts
@@ -3003,16 +3285,6 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 68.58) (xy 224.79 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "87bc117a-8de1-4a7d-821a-544c76ff5c12")
-	)
-	(wire
-		(pts
 			(xy 246.38 85.09) (xy 254 85.09)
 		)
 		(stroke
@@ -3023,13 +3295,23 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 35.56) (xy 224.79 35.56)
+			(xy 220.98 73.66) (xy 220.98 102.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "92658618-9d9f-4edf-9318-2baae0d21cdf")
+		(uuid "8ccc6612-5406-41d9-834d-d4767e919728")
+	)
+	(wire
+		(pts
+			(xy 214.63 137.16) (xy 220.98 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d28a297-a33f-4ce9-9e03-88a258f61e30")
 	)
 	(wire
 		(pts
@@ -3043,7 +3325,27 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 109.22) (xy 246.38 109.22)
+			(xy 196.85 50.8) (xy 196.85 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9777b624-5c91-4ccd-bb04-69f1013a0ca4")
+	)
+	(wire
+		(pts
+			(xy 208.28 50.8) (xy 208.28 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d34b58e-f659-4bbd-8041-dac8badfa891")
+	)
+	(wire
+		(pts
+			(xy 208.28 113.03) (xy 214.63 113.03)
 		)
 		(stroke
 			(width 0)
@@ -3053,7 +3355,17 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 142.24) (xy 111.76 142.24)
+			(xy 214.63 82.55) (xy 214.63 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa002c2c-7766-470a-85ff-fbae3031e35f")
+	)
+	(wire
+		(pts
+			(xy 87.63 142.24) (xy 83.82 142.24)
 		)
 		(stroke
 			(width 0)
@@ -3073,27 +3385,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 35.56) (xy 224.79 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aca5e08c-9a9c-4f04-8265-31c1a3f7c7d7")
-	)
-	(wire
-		(pts
-			(xy 224.79 96.52) (xy 208.28 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ad865706-6db1-4d40-9c60-2e95a66d872f")
-	)
-	(wire
-		(pts
-			(xy 62.23 80.01) (xy 74.93 80.01)
+			(xy 132.08 139.7) (xy 144.78 139.7)
 		)
 		(stroke
 			(width 0)
@@ -3143,7 +3435,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 144.78) (xy 111.76 144.78)
+			(xy 91.44 144.78) (xy 83.82 144.78)
 		)
 		(stroke
 			(width 0)
@@ -3173,13 +3465,13 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 29.21) (xy 224.79 35.56)
+			(xy 214.63 113.03) (xy 246.38 113.03)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c030b07c-e42f-4cf5-8bdf-6bce86812828")
+		(uuid "c565a9e2-e2a6-41dc-b1e6-49f636d2cef7")
 	)
 	(wire
 		(pts
@@ -3213,16 +3505,6 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 109.22) (xy 208.28 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cd790914-5c36-4a30-b692-5ab734288ddd")
-	)
-	(wire
-		(pts
 			(xy 196.85 92.71) (xy 196.85 127)
 		)
 		(stroke
@@ -3233,17 +3515,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 68.58) (xy 224.79 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d0e0d392-59f9-4b93-8e78-24b8de9f39a9")
-	)
-	(wire
-		(pts
-			(xy 127 149.86) (xy 111.76 149.86)
+			(xy 99.06 149.86) (xy 83.82 149.86)
 		)
 		(stroke
 			(width 0)
@@ -3293,7 +3565,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 147.32) (xy 125.73 147.32)
+			(xy 83.82 147.32) (xy 97.79 147.32)
 		)
 		(stroke
 			(width 0)
@@ -3313,7 +3585,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 147.32) (xy 127 147.32)
+			(xy 97.79 147.32) (xy 99.06 147.32)
 		)
 		(stroke
 			(width 0)
@@ -3323,13 +3595,23 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 50.8) (xy 236.22 50.8)
+			(xy 208.28 50.8) (xy 214.63 50.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "e5848146-02d1-43a3-b432-834b00da7fe7")
+	)
+	(wire
+		(pts
+			(xy 220.98 102.87) (xy 220.98 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6e9160f-f971-461c-bc2f-ffe00bfc43c6")
 	)
 	(wire
 		(pts
@@ -3353,7 +3635,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 137.16) (xy 119.38 144.78)
+			(xy 91.44 137.16) (xy 91.44 144.78)
 		)
 		(stroke
 			(width 0)
@@ -3383,16 +3665,6 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 68.58) (xy 208.28 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f3d8f99a-55e1-4521-a627-907da8a5dd78")
-	)
-	(wire
-		(pts
 			(xy 91.44 105.41) (xy 91.44 100.33)
 		)
 		(stroke
@@ -3413,13 +3685,23 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 142.24) (xy 72.39 142.24)
+			(xy 41.91 142.24) (xy 50.8 142.24)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "f79bd1c0-4226-4ba2-8465-6f9d4a48a0fd")
+	)
+	(wire
+		(pts
+			(xy 214.63 63.5) (xy 214.63 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8bf52cf-e2c6-4612-9877-5595f8eed99b")
 	)
 	(wire
 		(pts
@@ -3440,6 +3722,38 @@
 			(type default)
 		)
 		(uuid "fa4f3b9c-a9ef-434d-b518-e45489dc140a")
+	)
+	(wire
+		(pts
+			(xy 220.98 137.16) (xy 220.98 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd55c47c-ac7c-456e-a00c-3905ddf15a9a")
+	)
+	(rectangle
+		(start 231.14 134.62)
+		(end 251.46 143.51)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 48076939-ea44-4912-998e-6bd38e55500b)
+	)
+	(text "DO NOT POPULATE"
+		(exclude_from_sim no)
+		(at 261.112 135.89 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "78658f3c-36d8-4147-bd0f-950011fe4f25")
 	)
 	(label "PWM_C"
 		(at 93.98 60.96 180)
@@ -3486,7 +3800,7 @@
 		(uuid "0d529071-15bd-4b44-8c48-6c380f15d230")
 	)
 	(label "PWM_B"
-		(at 179.07 74.93 0)
+		(at 185.42 97.79 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3497,7 +3811,7 @@
 		(uuid "1b28f815-07bf-4a5e-a74d-55190065e905")
 	)
 	(label "C2CK"
-		(at 127 137.16 0)
+		(at 99.06 147.32 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3508,7 +3822,7 @@
 		(uuid "21e66e57-e757-47b1-a0cb-7535af008427")
 	)
 	(label "TX0"
-		(at 74.93 80.01 0)
+		(at 144.78 139.7 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3519,7 +3833,7 @@
 		(uuid "334fb363-6a99-4416-91b2-183a46b28291")
 	)
 	(label "COM_C"
-		(at 179.07 118.11 0)
+		(at 179.07 120.65 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3541,7 +3855,7 @@
 		(uuid "49f032dc-0460-4e7a-b78d-a091dc43b64a")
 	)
 	(label "C2D"
-		(at 127 149.86 0)
+		(at 99.06 149.86 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3552,7 +3866,7 @@
 		(uuid "49fb8f1a-c824-4b9f-9316-2aad81761db2")
 	)
 	(label "RC_IN"
-		(at 72.39 139.7 0)
+		(at 50.8 139.7 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3607,7 +3921,7 @@
 		(uuid "5df74783-a311-4b0b-a617-251ebacd1406")
 	)
 	(label "PWM_A"
-		(at 180.34 43.18 0)
+		(at 186.69 68.58 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3618,7 +3932,7 @@
 		(uuid "5e6109f3-c218-420a-a4ec-fbc8fa77ca13")
 	)
 	(label "COM_A"
-		(at 180.34 58.42 0)
+		(at 180.34 60.96 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3662,7 +3976,7 @@
 		(uuid "8e3a8c71-e1d4-4109-a674-a8fd11f52e6c")
 	)
 	(label "COM_B"
-		(at 179.07 87.63 0)
+		(at 179.07 90.17 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3706,7 +4020,7 @@
 		(uuid "baa27839-6eae-4085-a6fa-e936a3f3a1ca")
 	)
 	(label "PWM_C"
-		(at 179.07 102.87 0)
+		(at 185.42 132.08 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3728,7 +4042,7 @@
 		(uuid "e98c5fa4-5baf-4ce3-b7e6-6ac3a90702e8")
 	)
 	(label "RX0"
-		(at 74.93 82.55 0)
+		(at 144.78 142.24 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4309,7 +4623,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:DMN2058U")
-		(at 205.74 74.93 0)
+		(at 212.09 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4318,7 +4632,7 @@
 		(fields_autoplaced yes)
 		(uuid "2d342932-173b-4bbd-bac4-d610bd9d16b9")
 		(property "Reference" "Q3"
-			(at 212.09 73.6599 0)
+			(at 218.44 96.5199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4327,7 +4641,7 @@
 			)
 		)
 		(property "Value" "DMN2058U"
-			(at 212.09 76.1999 0)
+			(at 218.44 99.0599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4336,7 +4650,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 210.82 76.835 0)
+			(at 217.17 99.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4347,7 +4661,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.diodes.com/assets/Datasheets/DMN2058U.pdf"
-			(at 210.82 78.74 0)
+			(at 217.17 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4357,7 +4671,7 @@
 			)
 		)
 		(property "Description" "4.6A Id, 20V Vds, N-Channel MOSFET, SOT-23"
-			(at 205.74 74.93 0)
+			(at 212.09 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4384,17 +4698,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Transistor_FET:DMN2058U")
-		(at 205.74 87.63 0)
+		(lib_id "lib_blheli:IRLML2244TRPBF")
+		(at 200.66 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "3fc1dd9c-ee49-4c26-907f-121c08216464")
-		(property "Reference" "Q4"
-			(at 212.09 86.3599 0)
+		(uuid "340ae421-841b-41bd-b4ee-9d36c33af346")
+		(property "Reference" "Q6"
+			(at 210.82 117.1574 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4402,8 +4716,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DMN2058U"
-			(at 212.09 88.8999 0)
+		(property "Value" "IRLML2244TRPBF"
+			(at 210.82 119.6974 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4411,49 +4725,98 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 210.82 89.535 0)
+		(property "Footprint" "footprint_blheli:SOT95P237X112-3N"
+			(at 212.09 219.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
-					(italic yes)
 				)
-				(justify left)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.diodes.com/assets/Datasheets/DMN2058U.pdf"
-			(at 210.82 91.44 0)
+		(property "Datasheet" ""
+			(at 212.09 319.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Description" "4.6A Id, 20V Vds, N-Channel MOSFET, SOT-23"
-			(at 205.74 87.63 0)
+		(property "Description" "INFINEON - IRLML2244TRPBF - P CHANNEL POWER MOSFET, HEXFET, -20V, -4.3A, SOT-23"
+			(at 200.66 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.12"
+			(at 212.09 519.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "942-IRLML2244TRPBF"
+			(at 212.09 619.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IRLML2244TRPBF?qs=9%252BKlkBgLFf2tCL30qYbaQQ%3D%3D"
+			(at 212.09 719.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Infineon"
+			(at 212.09 819.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "IRLML2244TRPBF"
+			(at 212.09 919.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
 				(hide yes)
 			)
 		)
 		(pin "1"
-			(uuid "43fc1846-11f2-4089-8850-85bd79c9eb26")
-		)
-		(pin "3"
-			(uuid "ae898909-31f2-462a-ad36-044a5f47caee")
+			(uuid "4a329631-33d2-4295-813d-3c84fe002744")
 		)
 		(pin "2"
-			(uuid "a47d6662-94bd-4044-9d57-86adce912db9")
+			(uuid "aaf48513-192e-4163-8b9d-f0846c6b95b3")
+		)
+		(pin "3"
+			(uuid "4c1c4f24-617c-44b0-8393-6f377d9f65d7")
 		)
 		(instances
-			(project "pcb_blheli_s"
+			(project ""
 				(path "/19009f30-12ee-4d51-9b1c-ad5b665a5640"
-					(reference "Q4")
+					(reference "Q6")
 					(unit 1)
 				)
 			)
@@ -4530,7 +4893,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 115.57 134.62 90)
+		(at 87.63 134.62 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4539,7 +4902,7 @@
 		(fields_autoplaced yes)
 		(uuid "49a086e7-d780-44a3-b923-62d2449546d0")
 		(property "Reference" "#PWR06"
-			(at 121.92 134.62 0)
+			(at 93.98 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4548,7 +4911,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 119.38 134.6199 90)
+			(at 91.44 134.6199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4557,7 +4920,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 115.57 134.62 0)
+			(at 87.63 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4566,7 +4929,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 134.62 0)
+			(at 87.63 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4575,7 +4938,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 115.57 134.62 0)
+			(at 87.63 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4597,7 +4960,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 106.68 144.78 0)
+		(at 78.74 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4606,7 +4969,7 @@
 		(fields_autoplaced yes)
 		(uuid "4b976abf-884e-454c-8653-4adc319afabb")
 		(property "Reference" "J2"
-			(at 107.315 137.16 0)
+			(at 79.375 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4614,7 +4977,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
-			(at 107.315 139.7 0)
+			(at 79.375 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4622,7 +4985,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical"
-			(at 106.68 144.78 0)
+			(at 78.74 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4631,7 +4994,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 106.68 144.78 0)
+			(at 78.74 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4640,7 +5003,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 106.68 144.78 0)
+			(at 78.74 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4737,26 +5100,17 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VDC")
-		(at 224.79 29.21 0)
+		(lib_id "lib_blheli:IRLML2244TRPBF")
+		(at 200.66 60.96 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "5b2cee31-dab5-464e-aff6-a19f9ecf0715")
-		(property "Reference" "#PWR011"
-			(at 224.79 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VDC"
-			(at 227.33 27.9399 0)
+		(uuid "66f48034-3413-458d-a73a-b26faf200d62")
+		(property "Reference" "Q2"
+			(at 210.82 57.4674 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4764,17 +5118,37 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 224.79 29.21 0)
+		(property "Value" "IRLML2244TRPBF"
+			(at 210.82 60.0074 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "footprint_blheli:SOT95P237X112-3N"
+			(at 212.09 159.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
 				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
-			(at 224.79 29.21 0)
+			(at 212.09 259.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "INFINEON - IRLML2244TRPBF - P CHANNEL POWER MOSFET, HEXFET, -20V, -4.3A, SOT-23"
+			(at 200.66 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4782,22 +5156,69 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"VDC\""
-			(at 224.79 29.21 0)
+		(property "Height" "1.12"
+			(at 212.09 459.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "942-IRLML2244TRPBF"
+			(at 212.09 559.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IRLML2244TRPBF?qs=9%252BKlkBgLFf2tCL30qYbaQQ%3D%3D"
+			(at 212.09 659.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Infineon"
+			(at 212.09 759.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "IRLML2244TRPBF"
+			(at 212.09 859.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
 				(hide yes)
 			)
 		)
 		(pin "1"
-			(uuid "7e531809-0dd5-4680-a326-a79eeacf7272")
+			(uuid "7a11c8e9-72f5-45bf-aeb0-c87e55383cf3")
+		)
+		(pin "2"
+			(uuid "fcaefca9-183a-4eb0-b1b9-25fae3e35fa4")
+		)
+		(pin "3"
+			(uuid "d91c5cbf-2a97-4169-873b-50aa3b71794f")
 		)
 		(instances
 			(project ""
 				(path "/19009f30-12ee-4d51-9b1c-ad5b665a5640"
-					(reference "#PWR011")
+					(reference "Q2")
 					(unit 1)
 				)
 			)
@@ -5072,6 +5493,131 @@
 		)
 	)
 	(symbol
+		(lib_id "lib_blheli:IRLML2244TRPBF")
+		(at 200.66 90.17 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "875c8619-d238-431c-9540-53611d3ee441")
+		(property "Reference" "Q4"
+			(at 210.82 86.6774 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "IRLML2244TRPBF"
+			(at 210.82 89.2174 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "footprint_blheli:SOT95P237X112-3N"
+			(at 212.09 188.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 212.09 288.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "INFINEON - IRLML2244TRPBF - P CHANNEL POWER MOSFET, HEXFET, -20V, -4.3A, SOT-23"
+			(at 200.66 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.12"
+			(at 212.09 488.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "942-IRLML2244TRPBF"
+			(at 212.09 588.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IRLML2244TRPBF?qs=9%252BKlkBgLFf2tCL30qYbaQQ%3D%3D"
+			(at 212.09 688.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Infineon"
+			(at 212.09 788.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "IRLML2244TRPBF"
+			(at 212.09 888.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "f5a182a7-b8eb-4c01-b9ff-92706d0fb2ac")
+		)
+		(pin "2"
+			(uuid "9ca1187e-f090-4a34-80e3-beec60224477")
+		)
+		(pin "1"
+			(uuid "eeaa38a4-eaa1-47f5-a912-3edb1cf499bb")
+		)
+		(instances
+			(project ""
+				(path "/19009f30-12ee-4d51-9b1c-ad5b665a5640"
+					(reference "Q4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 246.38 139.7 180)
 		(unit 1)
@@ -5133,158 +5679,6 @@
 			(project "pcb_blheli_s"
 				(path "/19009f30-12ee-4d51-9b1c-ad5b665a5640"
 					(reference "R11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Transistor_FET:DMN2058U")
-		(at 205.74 58.42 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8bf33fcf-63f5-4db3-8bf5-e17d93d00f5a")
-		(property "Reference" "Q2"
-			(at 212.09 57.1499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "DMN2058U"
-			(at 212.09 59.6899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 210.82 60.325 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.diodes.com/assets/Datasheets/DMN2058U.pdf"
-			(at 210.82 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "4.6A Id, 20V Vds, N-Channel MOSFET, SOT-23"
-			(at 205.74 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "538aeb6b-59ea-4de4-af79-9fcd00352923")
-		)
-		(pin "3"
-			(uuid "716b4ea4-7f33-4078-9e70-a8cfc4c202eb")
-		)
-		(pin "2"
-			(uuid "bdc3cee8-7872-4915-8220-2294ff95090b")
-		)
-		(instances
-			(project "pcb_blheli_s"
-				(path "/19009f30-12ee-4d51-9b1c-ad5b665a5640"
-					(reference "Q2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Transistor_FET:DMN2058U")
-		(at 205.74 118.11 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9c782a38-97b1-438f-ba46-286b88449727")
-		(property "Reference" "Q6"
-			(at 212.09 116.8399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "DMN2058U"
-			(at 212.09 119.3799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 210.82 120.015 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.diodes.com/assets/Datasheets/DMN2058U.pdf"
-			(at 210.82 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "4.6A Id, 20V Vds, N-Channel MOSFET, SOT-23"
-			(at 205.74 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1668b591-b256-4404-ba6c-0f9eb6a062af")
-		)
-		(pin "3"
-			(uuid "d4ee4ba2-b759-4e18-ba38-5c7751e751ea")
-		)
-		(pin "2"
-			(uuid "5bf177cc-b6a8-4103-a7c0-ab4062deed82")
-		)
-		(instances
-			(project "pcb_blheli_s"
-				(path "/19009f30-12ee-4d51-9b1c-ad5b665a5640"
-					(reference "Q6")
 					(unit 1)
 				)
 			)
@@ -5428,7 +5822,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:DMN2058U")
-		(at 205.74 43.18 0)
+		(at 212.09 68.58 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5437,7 +5831,7 @@
 		(fields_autoplaced yes)
 		(uuid "ae7eadf6-ef44-4a2c-a21d-89353ae7c6c8")
 		(property "Reference" "Q1"
-			(at 212.09 41.9099 0)
+			(at 218.44 67.3099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5446,7 +5840,7 @@
 			)
 		)
 		(property "Value" "DMN2058U"
-			(at 212.09 44.4499 0)
+			(at 218.44 69.8499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5455,7 +5849,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 210.82 45.085 0)
+			(at 217.17 70.485 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5466,7 +5860,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.diodes.com/assets/Datasheets/DMN2058U.pdf"
-			(at 210.82 46.99 0)
+			(at 217.17 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5476,7 +5870,7 @@
 			)
 		)
 		(property "Description" "4.6A Id, 20V Vds, N-Channel MOSFET, SOT-23"
-			(at 205.74 43.18 0)
+			(at 212.09 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5504,7 +5898,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 125.73 142.24 180)
+		(at 97.79 142.24 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5512,7 +5906,7 @@
 		(dnp no)
 		(uuid "b67e4a58-14fa-4703-848c-dba7c84e1c7b")
 		(property "Reference" "R1"
-			(at 121.92 140.208 0)
+			(at 93.98 140.208 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5520,7 +5914,7 @@
 			)
 		)
 		(property "Value" "1K"
-			(at 127.762 142.24 90)
+			(at 99.822 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5528,7 +5922,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 125.73 142.24 0)
+			(at 97.79 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5537,7 +5931,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 125.73 142.24 0)
+			(at 97.79 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5546,7 +5940,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 125.73 142.24 0)
+			(at 97.79 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5637,7 +6031,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x03_Pin")
-		(at 57.15 82.55 0)
+		(at 127 142.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5646,7 +6040,7 @@
 		(fields_autoplaced yes)
 		(uuid "b7f4e592-6c20-4f3a-b5c7-1cdd7baaafc8")
 		(property "Reference" "J4"
-			(at 57.785 74.93 0)
+			(at 127.635 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5654,7 +6048,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03_Pin"
-			(at 57.785 77.47 0)
+			(at 127.635 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5662,7 +6056,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x03_P2.00mm_Vertical"
-			(at 57.15 82.55 0)
+			(at 127 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5671,7 +6065,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 57.15 82.55 0)
+			(at 127 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5680,7 +6074,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
-			(at 57.15 82.55 0)
+			(at 127 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5708,7 +6102,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 74.93 85.09 0)
+		(at 144.78 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5717,7 +6111,7 @@
 		(fields_autoplaced yes)
 		(uuid "b939da96-2bf7-44c7-b5a7-c68661ba8ed2")
 		(property "Reference" "#PWR09"
-			(at 74.93 91.44 0)
+			(at 144.78 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5726,7 +6120,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 74.93 90.17 0)
+			(at 144.78 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5734,7 +6128,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 74.93 85.09 0)
+			(at 144.78 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5743,7 +6137,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 74.93 85.09 0)
+			(at 144.78 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5752,7 +6146,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 74.93 85.09 0)
+			(at 144.78 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5842,6 +6236,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:VDC")
+		(at 196.85 50.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ca678654-4d18-4d7e-81f8-cb53a211bb11")
+		(property "Reference" "#PWR010"
+			(at 196.85 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VDC"
+			(at 196.85 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 196.85 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VDC\""
+			(at 196.85 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a9060342-c76a-4d6a-938e-3ac79c261514")
+		)
+		(instances
+			(project "pcb_blheli_s"
+				(path "/19009f30-12ee-4d51-9b1c-ad5b665a5640"
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 241.3 119.38 180)
 		(unit 1)
@@ -5903,72 +6363,6 @@
 			(project "pcb_blheli_s"
 				(path "/19009f30-12ee-4d51-9b1c-ad5b665a5640"
 					(reference "R6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 196.85 129.54 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d550af75-3767-4eaa-a53e-6b38dac1fb2b")
-		(property "Reference" "#PWR08"
-			(at 196.85 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 196.85 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 196.85 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 196.85 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 196.85 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4a378349-8fac-4a3d-98eb-75c8a567868e")
-		)
-		(instances
-			(project "pcb_blheli_s"
-				(path "/19009f30-12ee-4d51-9b1c-ad5b665a5640"
-					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -6109,7 +6503,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x03_Pin")
-		(at 58.42 142.24 0)
+		(at 36.83 142.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6118,7 +6512,7 @@
 		(fields_autoplaced yes)
 		(uuid "e00e51a9-5d70-4068-b3b7-dda2701fa77d")
 		(property "Reference" "J1"
-			(at 59.055 134.62 0)
+			(at 37.465 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6126,7 +6520,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03_Pin"
-			(at 59.055 137.16 0)
+			(at 37.465 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6134,7 +6528,7 @@
 			)
 		)
 		(property "Footprint" "footprint_blheli:HEADER_1x03_2.54mm_CASTELLATED"
-			(at 58.42 142.24 0)
+			(at 36.83 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6143,7 +6537,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 58.42 142.24 0)
+			(at 36.83 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6152,7 +6546,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
-			(at 58.42 142.24 0)
+			(at 36.83 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6180,7 +6574,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:DMN2058U")
-		(at 205.74 102.87 0)
+		(at 212.09 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6189,7 +6583,7 @@
 		(fields_autoplaced yes)
 		(uuid "e5564341-2eef-443a-b4a8-e782ffa71805")
 		(property "Reference" "Q5"
-			(at 212.09 101.5999 0)
+			(at 218.44 130.8099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6198,7 +6592,7 @@
 			)
 		)
 		(property "Value" "DMN2058U"
-			(at 212.09 104.1399 0)
+			(at 218.44 133.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6207,7 +6601,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 210.82 104.775 0)
+			(at 217.17 133.985 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6218,7 +6612,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.diodes.com/assets/Datasheets/DMN2058U.pdf"
-			(at 210.82 106.68 0)
+			(at 217.17 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6228,7 +6622,7 @@
 			)
 		)
 		(property "Description" "4.6A Id, 20V Vds, N-Channel MOSFET, SOT-23"
-			(at 205.74 102.87 0)
+			(at 212.09 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6322,7 +6716,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 127 147.32 270)
+		(at 99.06 137.16 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6331,7 +6725,7 @@
 		(fields_autoplaced yes)
 		(uuid "e7cf3490-1568-4743-a551-7defb6459055")
 		(property "Reference" "#PWR07"
-			(at 123.19 147.32 0)
+			(at 95.25 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6340,7 +6734,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 130.81 147.3199 90)
+			(at 102.87 137.1599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6349,7 +6743,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 127 147.32 0)
+			(at 99.06 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6358,7 +6752,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 147.32 0)
+			(at 99.06 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6367,7 +6761,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 127 147.32 0)
+			(at 99.06 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6389,7 +6783,7 @@
 	)
 	(symbol
 		(lib_id "power:VDC")
-		(at 72.39 142.24 270)
+		(at 50.8 142.24 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6398,7 +6792,7 @@
 		(fields_autoplaced yes)
 		(uuid "e872034a-6f40-49fa-9df6-4e0e74ea35e6")
 		(property "Reference" "#PWR018"
-			(at 68.58 142.24 0)
+			(at 46.99 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6407,7 +6801,7 @@
 			)
 		)
 		(property "Value" "VDC"
-			(at 76.2 142.2399 90)
+			(at 54.61 142.2399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6416,7 +6810,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 72.39 142.24 0)
+			(at 50.8 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6425,7 +6819,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 72.39 142.24 0)
+			(at 50.8 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6434,7 +6828,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDC\""
-			(at 72.39 142.24 0)
+			(at 50.8 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6581,6 +6975,72 @@
 			(project "pcb_blheli_s"
 				(path "/19009f30-12ee-4d51-9b1c-ad5b665a5640"
 					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 220.98 144.78 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f6d4f345-0882-4380-8aad-f0b0f6db10e1")
+		(property "Reference" "#PWR08"
+			(at 220.98 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 220.98 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 220.98 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 220.98 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 220.98 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3eca27dd-38d7-400f-a7ef-7085acd27700")
+		)
+		(instances
+			(project "pcb_blheli_s"
+				(path "/19009f30-12ee-4d51-9b1c-ad5b665a5640"
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -6901,7 +7361,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 68.58 147.32 0)
+		(at 46.99 147.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6910,7 +7370,7 @@
 		(fields_autoplaced yes)
 		(uuid "ff40865b-110c-48d6-a19f-3fbd99682d6b")
 		(property "Reference" "#PWR019"
-			(at 68.58 153.67 0)
+			(at 46.99 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6919,7 +7379,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 68.58 152.4 0)
+			(at 46.99 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6927,7 +7387,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 68.58 147.32 0)
+			(at 46.99 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6936,7 +7396,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 68.58 147.32 0)
+			(at 46.99 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6945,7 +7405,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 68.58 147.32 0)
+			(at 46.99 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
